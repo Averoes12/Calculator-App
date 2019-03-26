@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculator App</string>
+    <string name="nol">0</string>
+    <string name="plus">+</string>
+    <string name="min">-</string>
+    <string name="asterisk">*</string>
+    <string name="hasil">Hasilnya :</string>
+    <string name="divide">/</string>
+    <string name="clear">Clear</string>
+</resources>
